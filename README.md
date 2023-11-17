@@ -1,6 +1,5 @@
 PHPExcel for PHP version 7.3 to higher Codeigniter 
 
-PHPExcel for PHP 7.4 up for codeignter Framework
 
 Step :  1  Copy "PHPExcel" Folder and "PHPExcel.php" file to "YourProject->application->thirdparty" folder.
 
